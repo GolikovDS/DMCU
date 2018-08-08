@@ -1,0 +1,17 @@
+i2_setRX: CODE, 1986 0 16
+_init: CODE, 1322 0 130
+_readByteWire: CODE, 1570 0 118
+_getDc: CODE, 1890 0 40
+_resetWire: CODE, 1930 0 34
+_isPressedDs1990: CODE, 1784 0 56
+_uart: CODE, 8 0 754
+_main: CODE, 1058 0 132
+_adc: CODE, 1840 0 50
+_getBat: CODE, 1190 0 132
+_writeReadDs1990: CODE, 918 0 140
+_setRX: CODE, 2002 0 16
+_outByteWire: CODE, 1688 0 96
+_getCRC8: CODE, 1452 0 118
+_getPowerLine: CODE, 762 0 156
+_setTX: CODE, 2018 0 14
+Total: 2002
